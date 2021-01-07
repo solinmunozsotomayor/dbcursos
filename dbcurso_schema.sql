@@ -1,0 +1,3 @@
+-- Crear base de datos
+CREATE DATABASE IF NOT EXISTS dbcursos
+DEFAULT CHARACTER SET utf8;
